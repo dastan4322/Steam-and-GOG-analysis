@@ -63,4 +63,4 @@ APP_ID, Title, Genre, Rating, Votes_In_Rates, Released_Date, Discount, Price, Pl
 ---
 
 ## 👨‍💻 Author
- Dastab Medetov
+ Dastan Medetov
