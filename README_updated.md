@@ -62,7 +62,4 @@ APP_ID, Title, Genre, Rating, Votes_In_Rates, Released_Date, Discount, Price, Pl
 ---
 
 ## 👨‍💻 Author
-
-SDS 106 — Algorithms and Programming 2  
-Spring 2026
-0nly one Dastab Medetov
+ Dastab Medetov
